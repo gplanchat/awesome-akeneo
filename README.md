@@ -71,3 +71,4 @@ Bundle | Akeneo version
 ## R&D and proof of concepts
 
 * [Demonstration of the potential use-cases of new Mysql 8.0 functionalities](https://github.com/ahocquard/akeneo-mysql)
+* [Synchronize applications with akeneo/batch](https://fr.slideshare.net/gplanchat/synchronize-applications-with-akeneobatch)
